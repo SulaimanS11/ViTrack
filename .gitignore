@@ -1,0 +1,8 @@
+.next/
+node_modules/
+
+.env
+.env.local
+
+*.log
+test_json.txt
